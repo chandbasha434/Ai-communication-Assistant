@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore JSON configs (if sensitive)
+*.json
